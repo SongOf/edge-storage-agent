@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/SongOf/edge-storage-agent/cmd/internal/handler"
+	"github.com/SongOf/edge-storage-agent/internal/handler"
 	"log"
 	"net/http"
 )
